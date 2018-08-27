@@ -12,13 +12,13 @@
         android:layout_marginTop="50dp"
         android:text="Welcome to THE SCHEDULER"
         android:textAlignment="center"
-        android:textSize="25sp"/>
+        android:textSize="25sp" />
 
     <ImageView
+        android:id="@+id/schedule"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/schedule"
-        android:src="@drawable/cal"
-        android:layout_centerInParent="true"/>
+        android:layout_centerInParent="true"
+        android:src="@drawable/cal" />
 
 </RelativeLayout>
