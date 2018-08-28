@@ -17,7 +17,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".ScreenFirst" />
-        <activity android:name=".Zero" />
         <activity android:name=".ScreenZero"></activity>
     </application>
 
